@@ -18,6 +18,7 @@ dirs = {
     'a' : 3
     }
 
+
 class board:
     def __init__(self, width, height):
         self.width = width
